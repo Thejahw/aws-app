@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">zzzzzz</string>
+
+    <string-array name="logTypes">
+        <item>Choose</item>
+        <item>Access Log</item>
+        <item>VPC Log</item>
+
+    </string-array>
+    <string-array name="attrChoose">
+        <item>ErrorCode</item>
+        <item>ByteSent</item>
+        <item>HTTPstates</item>
+        <item>Operation</item>
+        <item>UserAgent</item>
+
+    </string-array>
+    <string-array name="attrChooseVPC">
+        <item>action</item>
+        <item>dstport</item>
+        <item>bytes</item>
+        <item>srcport</item>
+        <item>logstatus</item>
+
+    </string-array>
+</resources>
